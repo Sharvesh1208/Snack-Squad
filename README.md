@@ -1,7 +1,3 @@
-Here’s the full `README.md` content with your GitHub repository link added:
-
----
-
 # SnackSquad 🍕🍔🍟
 
 **SnackSquad** is a Kotlin-based mobile app designed for food enthusiasts who want a quick and easy way to order delicious snacks and meals. SnackSquad lets users browse through a variety of food options, check their order history, and earn rewards with every purchase!
