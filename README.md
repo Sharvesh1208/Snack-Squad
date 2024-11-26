@@ -44,6 +44,10 @@ To set up and run the SnackSquad app locally, follow these steps:
 - **Authentication**: Firebase Auth
 - **Push Notifications**: Firebase Cloud Messaging
 
+## Output Screenshots
+![Uploading Screenshot 2024-11-15 092209.png…]()
+
+
 ## Contributing 🤝
 
 We welcome contributions! To contribute, please:
