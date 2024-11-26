@@ -43,9 +43,23 @@ To set up and run the SnackSquad app locally, follow these steps:
 - **Payment Gateway**: Stripe API (or your chosen payment service)
 - **Authentication**: Firebase Auth
 - **Push Notifications**: Firebase Cloud Messaging
+  
+## Demo 📸
 
-## Output Screenshots
-![Uploading Screenshot 2024-11-15 092209.png…]()
+### Home Screen
+![Home Screen](./Screenshot%202024-11-15%20092209.png)
+
+### Food Menu
+![Food Menu](./Screenshot%202024-11-15%20092224.png)
+
+### Order History
+![Order History](./Screenshot%202024-11-15%20092242.png)
+
+### Rewards Screen
+![Rewards Screen](./Screenshot%202024-11-15%20092258.png)
+
+### Notifications
+![Notifications](./Screenshot%202024-11-15%20092309.png)
 
 
 ## Contributing 🤝
